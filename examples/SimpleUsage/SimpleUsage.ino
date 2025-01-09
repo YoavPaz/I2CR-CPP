@@ -6,7 +6,7 @@ How to use the I2CR library.
 */
 
 
-#include "I2CR.h"
+#include "I2CR-CPP.h"
 // includes the library (use <> to include not "")
 
 int addressList[] = {0x27, 0x78, 0x56};
